@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoButtomNavigationWithFab</string>
+    <string name="title_menu_home">Home</string>
+    <string name="title_menu_search">Search</string>
+    <string name="title_menu_profile">Profile</string>
+    <string name="title_menu_settings">Settings</string>
+</resources>
